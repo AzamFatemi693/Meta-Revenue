@@ -9,7 +9,7 @@ To connect to the Meta Revenue database, use the following connection details:
 **Database URL**: `postgres://Test:bQNxVzJL4g6u@ep-noisy-flower-846766.us-east-2.aws.neon.tech/DA103.2`
 
 ## Table 
-![image](image.png)
+![image](table.png)
 
 ## Copyright
 
