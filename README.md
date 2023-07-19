@@ -3,10 +3,6 @@
 ## Description
 Meta Revenue is a powerful revenue management system built on PostgreSQL. It provides comprehensive features for tracking, analyzing, and optimizing revenue streams.
 
-## Database Connection
-To connect to the Meta Revenue database, use the following connection details:
-
-**Database URL**: `postgres://Test:bQNxVzJL4g6u@ep-noisy-flower-846766.us-east-2.aws.neon.tech/DA103.2`
 
 ## Table 
 ![image](table.png)
